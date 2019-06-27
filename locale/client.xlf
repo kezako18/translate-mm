@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="b7716d43be56f3ab1a8258ad76ff7c5cc0b94a6c" datatype="html">
+        <source>LE PREMIER À L’INTERNATIONAL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="47e5bed5b34a288f2f7a118055c5ef06fe8fb473" datatype="html">
+        <source>VUE D’ENSEMBLE</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a4d211ded55704f9c5284907f3571f3b4f6493b0" datatype="html">
+        <source>ARTICLE 1 – CONDITIONS D’UTILISATION DE NOTRE BOUTIQUE EN LIGNE</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a3a626fff048277d347347242bf85ad465b5f5e4" datatype="html">
+        <source>ARTICLE 2 – CONDITIONS GÉNÉRALES</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a5ade73a714c56eb6d40a422b7738429ed3c77c7" datatype="html">
+        <source>ARTICLE 3 – EXACTITUDE, EXHAUSTIVITÉ ET ACTUALITÉ DES INFORMATIONS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6ffbfd7893e58ebe92e9640d11db477827843d5b" datatype="html">
+        <source>ARTICLE 4 – MODIFICATIONS APPORTÉES AU SERVICE ET AUX PRIX</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5fe33f03a0a65ca9c51f71a426b516b2fc5a1ce0" datatype="html">
+        <source>ARTICLE 5 – PRODUITS OU SERVICES</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
