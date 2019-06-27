@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+    nothing:
+        build: .
+        container_name: nop
+        volumes:
+            - ./:/var/www/nop
+        networks:
+            - nop
+        ports:
+            - 8080:8080
+
+networks:
+    nop:
