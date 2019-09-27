@@ -2,11 +2,291 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="fr" datatype="plaintext" original="ng2.template" target-language="en-US">
     <body>
-      <trans-unit id="b7716d43be56f3ab1a8258ad76ff7c5cc0b94a6c" datatype="html">
-        <source>LE PREMIER À L’INTERNATIONAL</source><target state="new">international first (en-US)</target>
+      <trans-unit id="menuEspaceGratuit" datatype="html">
+        <source>ESPACE GRATUIT</source><target state="new">FREE SPACE</target>
+        <note priority="1" from="description">Espace gratuit</note>
+        <note priority="1" from="meaning">Menu</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">22</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">23</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">58</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">59</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">22</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">23</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">54</context></context-group></trans-unit><trans-unit id="menuEspaceVIP" datatype="html">
+        <source>ESPACE VIP</source><target state="new">VIP SPACE</target>
+        <note priority="1" from="description">Espace vip</note>
+        <note priority="1" from="meaning">Menu</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">26</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">27</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">62</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">63</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">26</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">27</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">58</context></context-group></trans-unit><trans-unit id="menuStore" datatype="html">
+        <source>BOUTIQUE VIP</source><target state="new">VIP SHOP</target>
+        <note priority="1" from="description">Boutique VIP</note>
+        <note priority="1" from="meaning">Menu</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">66</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">61</context></context-group></trans-unit><trans-unit id="menuContact" datatype="html">
+        <source>CONTACT</source><target state="new">CONTACT</target>
+        <note priority="1" from="description">Contact</note>
+        <note priority="1" from="meaning">Menu</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">34</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">75</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">33</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">69</context></context-group></trans-unit><trans-unit id="menuFAQ" datatype="html">
+        <source>FAQ</source><target state="new">FAQ</target>
+        <note priority="1" from="description">FAQ</note>
+        <note priority="1" from="meaning">Menu</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">37</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">78</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">36</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">72</context></context-group></trans-unit><trans-unit id="menuMyAccount" datatype="html">
+        <source>MON COMPTE</source><target state="new">MY ACCOUNT</target>
+        <note priority="1" from="description">Mon compte</note>
+        <note priority="1" from="meaning">Menu</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">40</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">81</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">39</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">75</context></context-group></trans-unit><trans-unit id="menuLogin" datatype="html">
+        <source>SE CONNECTER</source><target state="new">LOGIN</target>
+        <note priority="1" from="description">Se connecter</note>
+        <note priority="1" from="meaning">Menu</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">41</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">82</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">40</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">76</context></context-group></trans-unit><trans-unit id="nom" datatype="html">
+        <source>MONEYMAKERBET</source><target state="new">MONEYMAKERBET</target>
+        <note priority="1" from="description">Nom</note>
+        <note priority="1" from="meaning">Global</note>
+      <context-group purpose="location"><context context-type="sourcefile">app/navbar/navbar.component.ts</context><context context-type="linenumber">87</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/mininavbar/mininavbar.component.ts</context><context context-type="linenumber">81</context></context-group></trans-unit><trans-unit id="slogan" datatype="html">
+        <source>LE PREMIER À L’INTERNATIONAL</source><target state="new">LE PREMIER À L’INTERNATIONAL</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <note priority="1" from="description">Slogan</note>
+        <note priority="1" from="meaning">Global</note>
+      </trans-unit><trans-unit id="explain" datatype="html">
+        <source><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Chaque jour, MoneyMaker vous partage ses paris sportifs analysés<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    autour d’un suivi de bankroll guidé  tous sports <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>pour vous garantir un revenu par mois
+                    sur de simples clics !<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    Aucune connaissance requise.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>LOCAL: Francais<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Anglais<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_2" ctype="x-a" equiv-text="&lt;a>"/>Américain<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    <x id="START_LINK_3" ctype="x-a" equiv-text="&lt;a>"/>DIST: Francais <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_4" ctype="x-a" equiv-text="&lt;a>"/>Anglais <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_5" ctype="x-a" equiv-text="&lt;a>"/>Américain<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+                </source><target state="new"><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Every day, MoneyMaker vous partage ses paris sportifs analysés<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    autour d’un suivi de bankroll guidé  tous sports <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>pour vous garantir un revenu par mois
+                    sur de simples clics !<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    Aucune connaissance requise.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>LOCAL: Francais<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Anglais<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_2" ctype="x-a" equiv-text="&lt;a>"/>Américain<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                    <x id="START_LINK_3" ctype="x-a" equiv-text="&lt;a>"/>DIST: Francais <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_4" ctype="x-a" equiv-text="&lt;a>"/>Anglais <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> -
+                    <x id="START_LINK_5" ctype="x-a" equiv-text="&lt;a>"/>Américain<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/navbar/navbar.component.ts</context>
           <context context-type="linenumber">90</context>
+        </context-group>
+        <note priority="1" from="description">Explicatifs</note>
+        <note priority="1" from="meaning">Topbar</note>
+      </trans-unit><trans-unit id="becomeVIP" datatype="html">
+        <source>DEVENIR VIP</source><target state="new">BECOME A VIP</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <note priority="1" from="description">Devenir vip</note>
+        <note priority="1" from="meaning">Global</note>
+      </trans-unit><trans-unit id="offer" datatype="html">
+        <source>750€ OFFERTS</source><target state="new">500$ free</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+        <note priority="1" from="description">Offer</note>
+        <note priority="1" from="meaning">Global</note>
+      </trans-unit><trans-unit id="login" datatype="html">
+        <source>CONNEXION</source><target state="new">CONNEXION</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <note priority="1" from="description">Connexion</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="registration" datatype="html">
+        <source>INSCRIPTION</source><target state="new">INSCRIPTION</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <note priority="1" from="description">Inscription</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginNeedIdentifiant" datatype="html">
+        <source>
+                            Veuillez saisir vos identifiants pour accéder au pronostic du jour.
+                        </source><target state="new">
+                            Veuillez saisir vos identifiants pour accéder au pronostic du jour.
+                        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">Saisie identifiant</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginOrEmail" datatype="html">
+        <source>Email ou Pseudo</source><target state="new">Email ou Pseudo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <note priority="1" from="description">Placeholder password</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginPassword" datatype="html">
+        <source>Mot de passe</source><target state="new">Mot de passe</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <note priority="1" from="description">Placeholder password</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginLostPassword" datatype="html">
+        <source>Mot de passe oublié</source><target state="new">Mot de passe oublié</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <note priority="1" from="description">Mot de passe perdu</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginSloganReady" datatype="html">
+        <source>Vous y êtes presque !</source><target state="new">Vous y êtes presque !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+        <note priority="1" from="description">Slogan inscription</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginOpenAccount" datatype="html">
+        <source>Ouvrez votre compte dès maintenant et profitez immédiatement des pronostics.</source><target state="new">Ouvrez votre compte dès maintenant et profitez immédiatement des pronostics.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <note priority="1" from="description">Ouvrez votre compte</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginRequiredFields" datatype="html">
+        <source>*Champs obligatoires</source><target state="new">*Champs obligatoires</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <note priority="1" from="description">Champs obligatoires</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginUsername" datatype="html">
+        <source>Pseudo*</source><target state="new">Username*</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <note priority="1" from="description">Placeholder pseudo</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginEmail" datatype="html">
+        <source>Email*</source><target state="new">Email*</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <note priority="1" from="description">Placeholder email</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginPasswordRequired" datatype="html">
+        <source>Mot de passe*</source><target state="new">Mot de passe*</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <note priority="1" from="description">Placeholder password</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginConfirmPassword" datatype="html">
+        <source>Confirmation mot de passe*</source><target state="new">Confirmation mot de passe*</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+        <note priority="1" from="description">Placeholder confirm password</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="loginCGU" datatype="html">
+        <source>J'accepte les CGU</source><target state="new">J'accepte les CGU</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+        <note priority="1" from="description">Accepter les cgu</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="register" datatype="html">
+        <source>S'INSCRIRE</source><target state="new">S'INSCRIRE</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/modaleconnexion/modaleconnexion.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+        <note priority="1" from="description">S'inscrire</note>
+        <note priority="1" from="meaning">Connexion</note>
+      </trans-unit><trans-unit id="faqTitleArt1" datatype="html">
+        <source>1. Je découvre les paris sportifs. Qu’est-ce que c’est ?</source><target state="new">1. Je découvre les paris sportifs. Qu’est-ce que c’est ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/faq/faq.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">Article 1</note>
+        <note priority="1" from="meaning">Titre article</note>
+      </trans-unit><trans-unit id="b008567a13dd097b81d4c9b186caec8ffcb6b828" datatype="html">
+        <source>2. Comment profiter des 750€ offerts ?</source><target state="new">2. Comment profiter des 750€ offerts ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/faq/faq.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit><trans-unit id="d0a3ae385b96b437391a12bc8dab0bbadc8cad78" datatype="html">
+        <source>3. Que propose l’Espace Gratuit de MoneyMakerBet ?</source><target state="new">3. Que propose l’Espace Gratuit de MoneyMakerBet ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">111</context></context-group></trans-unit><trans-unit id="770e2e4ab17fe0df39f5a294bd52d139e2d7a5ad" datatype="html">
+        <source>4. Que propose l’Espace VIP de MoneyMakerBet ?</source><target state="new">4. Que propose l’Espace VIP de MoneyMakerBet ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">119</context></context-group></trans-unit><trans-unit id="2b600b4549f7746f25d71e5d04ed6612dbd83876" datatype="html">
+        <source>5. Quel pack VIP me conviendrait le mieux ?</source><target state="new">5. Quel pack VIP me conviendrait le mieux ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">127</context></context-group></trans-unit><trans-unit id="dbb02b1d5a4a060ac9b83ce9b363914de1494d85" datatype="html">
+        <source>6. Qu’est-ce que l’UPGRADE ? Et comment UPGRADE ?</source><target state="new">6. Qu’est-ce que l’UPGRADE ? Et comment UPGRADE ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">153</context></context-group></trans-unit><trans-unit id="4e2ce3420bd47a1950217a594cef3f8858f7d776" datatype="html">
+        <source>7. Qu’est-ce que le Pronostic Gestion ?</source><target state="new">7. Qu’est-ce que le Pronostic Gestion ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">168</context></context-group></trans-unit><trans-unit id="81026eda915e2a980dc09de7b9bc37fb3d763abf" datatype="html">
+        <source>8. Qu’est-ce que le Pronostic Fun ?</source><target state="new">8. Qu’est-ce que le Pronostic Fun ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">177</context></context-group></trans-unit><trans-unit id="432035be66d5a0326859b9fb8bc9c8f5b1117e0c" datatype="html">
+        <source>9. Qu’est-ce que le Pronostic Montante ?</source><target state="new">9. Qu’est-ce que le Pronostic Montante ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">189</context></context-group></trans-unit><trans-unit id="c3f6c70518cc549d0b2f65a9329edbdcdf35220b" datatype="html">
+        <source>10. Qu’est-ce que le Pronostic Missile ?</source><target state="new">10. Qu’est-ce que le Pronostic Missile ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">199</context></context-group></trans-unit><trans-unit id="e23107ab0810c180fa44c82c06518641e85349d1" datatype="html">
+        <source>11. Où retrouver les bilans ?</source><target state="new">11. Où retrouver les bilans ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/faq/faq.component.ts</context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+      </trans-unit><trans-unit id="5c784a2b4a158c94029fd36a57c29dc3d04da19e" datatype="html">
+        <source>12. Où me suivre et comment être alerté des pronostics ?</source><target state="new">12. Où me suivre et comment être alerté des pronostics ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">229</context></context-group></trans-unit><trans-unit id="dda03a45fb06bc55416a7bc1e8c27d12c789247a" datatype="html">
+        <source>13. Parfait, je me lance ! Et si j’ai + de questions ?</source><target state="new">13. Parfait, je me lance ! Et si j’ai + de questions ?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/faq/faq.component.ts</context><context context-type="linenumber">248</context></context-group></trans-unit><trans-unit id="24e7dc9bf10540ffc13400509430a3301aaa7e2a" datatype="html">
+        <source>Erreur 404</source><target state="new">Error 404</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/four-oh-four/four-oh-four.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit><trans-unit id="c12407f3e7efe43a440d3742c6ea641be63ee844" datatype="html">
+        <source>La page que vous cherchez n'existe pas !</source><target state="new">Page not found !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/four-oh-four/four-oh-four.component.ts</context>
+          <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit><trans-unit id="47e5bed5b34a288f2f7a118055c5ef06fe8fb473" datatype="html">
         <source>VUE D’ENSEMBLE</source><target state="new">VUE D’ENSEMBLE US</target>
@@ -16,38 +296,23 @@
         </context-group>
       </trans-unit><trans-unit id="a4d211ded55704f9c5284907f3571f3b4f6493b0" datatype="html">
         <source>ARTICLE 1 – CONDITIONS D’UTILISATION DE NOTRE BOUTIQUE EN LIGNE</source><target state="new">ARTICLE 1 – CONDITIONS D’UTILISATION DE NOTRE BOUTIQUE EN LIGNE</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
-          <context context-type="linenumber">46</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/cgu/cgu.component.ts</context><context context-type="linenumber">50</context></context-group></trans-unit>
       <trans-unit id="a3a626fff048277d347347242bf85ad465b5f5e4" datatype="html">
         <source>ARTICLE 2 – CONDITIONS GÉNÉRALES</source><target state="new">ARTICLE 2 – CONDITIONS GÉNÉRALES</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
-          <context context-type="linenumber">61</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/cgu/cgu.component.ts</context><context context-type="linenumber">65</context></context-group></trans-unit>
       <trans-unit id="a5ade73a714c56eb6d40a422b7738429ed3c77c7" datatype="html">
         <source>ARTICLE 3 – EXACTITUDE, EXHAUSTIVITÉ ET ACTUALITÉ DES INFORMATIONS</source><target state="new">ARTICLE 3 – EXACTITUDE, EXHAUSTIVITÉ ET ACTUALITÉ DES INFORMATIONS</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
-          <context context-type="linenumber">84</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/cgu/cgu.component.ts</context><context context-type="linenumber">88</context></context-group></trans-unit>
       <trans-unit id="6ffbfd7893e58ebe92e9640d11db477827843d5b" datatype="html">
         <source>ARTICLE 4 – MODIFICATIONS APPORTÉES AU SERVICE ET AUX PRIX</source><target state="new">ARTICLE 4 – MODIFICATIONS APPORTÉES AU SERVICE ET AUX PRIX</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
-          <context context-type="linenumber">100</context>
-        </context-group>
-      </trans-unit><trans-unit id="5fe33f03a0a65ca9c51f71a426b516b2fc5a1ce0" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/cgu/cgu.component.ts</context><context context-type="linenumber">104</context></context-group></trans-unit><trans-unit id="5fe33f03a0a65ca9c51f71a426b516b2fc5a1ce0" datatype="html">
         <source>ARTICLE 5 – PRODUITS OU SERVICES</source><target state="new">ARTICLE 5 – PRODUITS OU SERVICES</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/cgu/cgu.component.ts</context>
-          <context context-type="linenumber">113</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/cgu/cgu.component.ts</context><context context-type="linenumber">117</context></context-group></trans-unit>
     </body>
   </file>
 </xliff>
